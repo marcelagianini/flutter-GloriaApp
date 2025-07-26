@@ -21,7 +21,16 @@ Este é um projeto colaborativo desenvolvido por [@marcelagianini](https://githu
 
 ## 🖼️ Tela inicial
 
-*Insira aqui o print da tela inicial do app.*
+![Imagem da tela home/inicial do aplicativo Gloria](1.png)
+
+## 🖼️ Formulários-1
+![Imagem das duas primeiras etapas de registro de ocorrência](2.png)
+## 🖼️ Formulários-2
+![Imagem das últimas etapas de registro de ocorrência](3.png)
+
+## 🖼️ Lista de ocorrências registradas
+![Imagem mostrando as ocorrências registradas e armazenadas.](4.png)
+
 
 ## Futuras implementações
 
